@@ -2,7 +2,6 @@
 
 <div>
 <a href="https://github.com/Isaque-Matos">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Isaque-Matos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
 </div>
  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
