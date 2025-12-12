@@ -2,6 +2,7 @@
 
 <div>
 <a href="https://github.com/Isaque-Matos">
+<img src="https://github-readme-streak-stats-xi-fawn.vercel.app?user=Isaque-Matos&theme=dark" alt="GitHub Streak" />
 </div>
  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
